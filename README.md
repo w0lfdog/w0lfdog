@@ -1,5 +1,6 @@
-                          
-                         please do not copy or heavily reference my skins without permission, thank you!
+![image](https://github.com/w0lfdog/w0lfdog/assets/158516371/9190c56b-d001-4e01-acec-3990b4c76c17)
+                                                         
+                        ⚠️ please do not copy or heavily reference my skins without permission, thank you! ⚠️
 
 <!--
 **w0lfdog/w0lfdog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
