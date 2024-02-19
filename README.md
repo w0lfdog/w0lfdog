@@ -1,4 +1,5 @@
-                          ⚠️ please do not copy or heavily reference my skins without permission, ty<3 ⚠️
+                          
+                         please do not copy or heavily reference my skins without permission, thank you!
 
 <!--
 **w0lfdog/w0lfdog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
